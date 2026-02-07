@@ -3,7 +3,7 @@ VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 26.2.1//EN
 N:Plack;Lutz;;;
 FN:Lutz Plack
-ORG:Interessengemeinschaft Wassertechnik;
+ORG:IGW - Interessengemeinschaft Wassertechnik;
 TITLE:Geschäftsführer
 EMAIL;type=INTERNET;type=pref:placklutz@gmail.com
 TEL;type=pref:+49 171 7540103
@@ -118,3 +118,4 @@ PHOTO;ENCODING=b:AAAAJGZ0eXBoZWljAAAAAG1pZjFNaVBybWlhZk1pSEJoZWljAAADlW1ldG
  fmxEkQpgPU64rj26vA8W7bdOv3i1vEUk/0eCEqTkLUOf4g9iJ/xrX+RzlRFzFEL8Y95xSMUB1/
  EzqjcNcI9qjNTWkUJUszLuAUEZp7xw==
 END:VCARD
+
